@@ -17,9 +17,13 @@ This project uses lot of stuff as:
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
 
+Soon to be added:
+
+- [SWR](https://swr.vercel.app/)
+
 ## Getting Started
 
-Create your next app using yarn create next-app -e https://github.com/jlguariglia/boilerplate
+Create your next app using `yarn create next-app -e https://github.com/jlguariglia/boilerplate`
 
 Install dependencies with `yarn`
 
